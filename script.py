@@ -1,7 +1,7 @@
 #**********************************************************
-#Made by Georgiy Mintenko(Github profile:iamgeorgiy)   |
+#Made by Georgiy Mintenko(Github profile:iamgeorgiy)      |
 #09.01.2021                                               |
-#Password checker
+#Password checker                                         |
 #**********************************************************
 import os
 from colorama import Fore, Back, Style
